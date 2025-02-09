@@ -1,0 +1,10 @@
+*.json
+
+# Ignora todos os arquivos CSV no repositório
+*.csv
+
+# Faz exceção para arquivos CSV dentro de pastas com nome no formato "2020_2024"
+!*/[2020-2024]/*.csv
+!*/[2012-2014]/*.csv
+
+!station_catalog.csv
