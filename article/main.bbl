@@ -1,0 +1,740 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{geopandas2023}{misc}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=fb321940ad986d60083ed1e5ad72f8a1}{%
+           family={Bossche},
+           familyi={B\bibinitperiod},
+           given={Joris\bibnamedelima Van},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0,
+           prefix={den},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=17f319a0875a7b337e4ae156945c781e}{%
+           family={Fleischmann},
+           familyi={F\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=016d802c22510812b929911cf266c0bb}{%
+           family={McBride},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04b6e9da4c2fdf0f1b063d538e039520}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={Brendan},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a2c5e6fd0f495126e1004b82d3160c6}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Levi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d26e5b88ca2ba5d0627fcf81d6379e6c}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f78ad55baf63315a17b9214660f8e6be}{%
+           family={developers},
+           familyi={d\bibinitperiod},
+           given={GeoPandas},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b043a3d2e7746e00b9b769ae7129af68}
+      \strng{fullhash}{225051b7af32ea6ceada378c1467fb3d}
+      \strng{bibnamehash}{b043a3d2e7746e00b9b769ae7129af68}
+      \strng{authorbibnamehash}{b043a3d2e7746e00b9b769ae7129af68}
+      \strng{authornamehash}{b043a3d2e7746e00b9b769ae7129af68}
+      \strng{authorfullhash}{225051b7af32ea6ceada378c1467fb3d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GeoPandas: Python tools for geographic data}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://geopandas.org/
+      \endverb
+      \verb{url}
+      \verb https://geopandas.org/
+      \endverb
+    \endentry
+    \entry{caudullo2014geospatial}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7ee607533b436df0ee8b86aaa49440ad}{%
+           family={Caudullo},
+           familyi={C\bibinitperiod},
+           given={Giovanni},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7ee607533b436df0ee8b86aaa49440ad}
+      \strng{fullhash}{7ee607533b436df0ee8b86aaa49440ad}
+      \strng{bibnamehash}{7ee607533b436df0ee8b86aaa49440ad}
+      \strng{authorbibnamehash}{7ee607533b436df0ee8b86aaa49440ad}
+      \strng{authornamehash}{7ee607533b436df0ee8b86aaa49440ad}
+      \strng{authorfullhash}{7ee607533b436df0ee8b86aaa49440ad}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Earthzine}
+      \field{number}{2}
+      \field{title}{Applying Geospatial Semantic Array Programming for a Reproducible Set of Bioclimatic Indices in Europe}
+      \field{volume}{7}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb http://www.earthzine.org/?p=877975
+      \endverb
+      \verb{url}
+      \verb http://www.earthzine.org/?p=877975
+      \endverb
+    \endentry
+    \entry{fruchterman1991graph}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a72c875c142170d4c53576d7fc2b25df}{%
+           family={Fruchterman},
+           familyi={F\bibinitperiod},
+           given={Thomas\bibnamedelimb M.\bibnamedelimi J.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06c53f3845904f305d3403e11f5be10b}{%
+           family={Reingold},
+           familyi={R\bibinitperiod},
+           given={Edward\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{78c144607d6baed0c12772c6ee60d847}
+      \strng{fullhash}{78c144607d6baed0c12772c6ee60d847}
+      \strng{bibnamehash}{78c144607d6baed0c12772c6ee60d847}
+      \strng{authorbibnamehash}{78c144607d6baed0c12772c6ee60d847}
+      \strng{authornamehash}{78c144607d6baed0c12772c6ee60d847}
+      \strng{authorfullhash}{78c144607d6baed0c12772c6ee60d847}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Software: Practice and Experience}
+      \field{number}{11}
+      \field{title}{Graph Drawing by Force-directed Placement}
+      \field{volume}{21}
+      \field{year}{1991}
+      \field{pages}{1129\bibrangedash 1164}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1002/spe.4380211102
+      \endverb
+    \endentry
+    \entry{ganem2020mapping}{article}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=fc8ef2c0afe5898d082d044a73e1668f}{%
+           family={Ganem},
+           familyi={G\bibinitperiod},
+           given={Khalil\bibnamedelima Ali},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=371f4a8027d08a32de07fe7f833df7e2}{%
+           family={Dutra},
+           familyi={D\bibinitperiod},
+           given={Andeise\bibnamedelima Cerqueira},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c086fd65401d0e7aca601a29ae47731}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Marceli\bibnamedelimb Terra\bibnamedelima de},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e799008bffb77349f463150355c615b8}{%
+           family={Freitas},
+           familyi={F\bibinitperiod},
+           given={Ramon\bibnamedelimb Morais\bibnamedelima de},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f00e5fc4f425c9bfb8236168fd4d294}{%
+           family={Grecchi},
+           familyi={G\bibinitperiod},
+           given={Rosana\bibnamedelima Cristina},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6d0e94f1f153cc37e436f5389566417}{%
+           family={Vieira},
+           familyi={V\bibinitperiod},
+           given={Rita\bibnamedelimb Marcia\bibnamedelimb da\bibnamedelimb Silva\bibnamedelima Pinto},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45bf7eccf7433b78deaeb94782bad2c0}{%
+           family={Arai},
+           familyi={A\bibinitperiod},
+           given={Egidio},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dabe071557d0ab9654093090b13d7f1c}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Fabrício\bibnamedelima Brito},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a40616bf75a21e330ce7060ab3540cc8}{%
+           family={Sampaio},
+           familyi={S\bibinitperiod},
+           given={Claudia\bibnamedelimb Bloisi\bibnamedelima Vaz},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=604565b476af28ddf8ff64fe285d841c}{%
+           family={Duarte},
+           familyi={D\bibinitperiod},
+           given={Valdete},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fc47b417481d9898cc2a72e4bc3b0dd}{%
+           family={Shimabukuro},
+           familyi={S\bibinitperiod},
+           given={Yosio\bibnamedelima Edemir},
+           giveni={Y\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4e140140e69b2e1ccfd3f0902e3f878a}
+      \strng{fullhash}{0d5b4d0f7e5219cb7fb511fc7fcdcd13}
+      \strng{bibnamehash}{4e140140e69b2e1ccfd3f0902e3f878a}
+      \strng{authorbibnamehash}{4e140140e69b2e1ccfd3f0902e3f878a}
+      \strng{authornamehash}{4e140140e69b2e1ccfd3f0902e3f878a}
+      \strng{authorfullhash}{0d5b4d0f7e5219cb7fb511fc7fcdcd13}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Brasileira de Cartografia}
+      \field{number}{Especial 50 anos}
+      \field{title}{Mapping Caatinga Vegetation using Optical Earth Observation Data – Opportunities and Challenges}
+      \field{volume}{72}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.14393/rbcv72nespecial50anos-56543
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.14393/rbcv72nespecial50anos-56543
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.14393/rbcv72nespecial50anos-56543
+      \endverb
+    \endentry
+    \entry{mapbiomas2025}{misc}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{MapBiomas Brazil}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://brasil.mapbiomas.org/en/
+      \endverb
+      \verb{url}
+      \verb https://brasil.mapbiomas.org/en/
+      \endverb
+    \endentry
+    \entry{marengo2020extreme}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6836b8cf92f7ebca62762ec25d261b35}{%
+           family={Marengo},
+           familyi={M\bibinitperiod},
+           given={José\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b795f9cfa5e856924bc038b7564f7185}
+      \strng{fullhash}{b795f9cfa5e856924bc038b7564f7185}
+      \strng{bibnamehash}{b795f9cfa5e856924bc038b7564f7185}
+      \strng{authorbibnamehash}{b795f9cfa5e856924bc038b7564f7185}
+      \strng{authornamehash}{b795f9cfa5e856924bc038b7564f7185}
+      \strng{authorfullhash}{b795f9cfa5e856924bc038b7564f7185}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Earth Science}
+      \field{title}{Extreme climatic and weather events in Brazil}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+    \endentry
+    \entry{nobre2016land}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a9337920b7121d690e3d561d65a911bc}{%
+           family={Nobre},
+           familyi={N\bibinitperiod},
+           given={Carlos\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2e1736853bba26d66cb51f66255e024a}
+      \strng{fullhash}{2e1736853bba26d66cb51f66255e024a}
+      \strng{bibnamehash}{2e1736853bba26d66cb51f66255e024a}
+      \strng{authorbibnamehash}{2e1736853bba26d66cb51f66255e024a}
+      \strng{authornamehash}{2e1736853bba26d66cb51f66255e024a}
+      \strng{authorfullhash}{2e1736853bba26d66cb51f66255e024a}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{39}
+      \field{title}{Land-use and climate change risks in the Amazon and the need of a novel sustainable development paradigm}
+      \field{volume}{113}
+      \field{year}{2016}
+      \field{pages}{10759\bibrangedash 10768}
+      \range{pages}{10}
+    \endentry
+    \entry{deoliveira2021remote}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9697878e9528db6d3ba74a28476a6e44}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Gustavo},
+           giveni={G\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{b93ebe12f4a9b55ac140ed8c38a799f3}
+      \strng{fullhash}{b93ebe12f4a9b55ac140ed8c38a799f3}
+      \strng{bibnamehash}{b93ebe12f4a9b55ac140ed8c38a799f3}
+      \strng{authorbibnamehash}{b93ebe12f4a9b55ac140ed8c38a799f3}
+      \strng{authornamehash}{b93ebe12f4a9b55ac140ed8c38a799f3}
+      \strng{authorfullhash}{b93ebe12f4a9b55ac140ed8c38a799f3}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Remote Sensing}
+      \field{title}{Remote sensing for biome monitoring in Brazil}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 19}
+      \range{pages}{19}
+    \endentry
+    \entry{oliveira2023networks}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a264f6697d7a423238fb2164bca751c4}{%
+           family={Oliveira\bibnamedelima Filho},
+           familyi={O\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Florêncio\bibnamedelima Mendes},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=632ba3ee2b0eefeda2931f4cd1e2850f}{%
+           family={Guedes},
+           familyi={G\bibinitperiod},
+           given={Everaldo\bibnamedelima Freitas},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0266f382d14eecff14a5fe40170d5a83}{%
+           family={Rodrigues},
+           familyi={R\bibinitperiod},
+           given={Paulo\bibnamedelima Canas},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0ea7a95fbd65373f009550ce916be4fc}
+      \strng{fullhash}{0ea7a95fbd65373f009550ce916be4fc}
+      \strng{bibnamehash}{0ea7a95fbd65373f009550ce916be4fc}
+      \strng{authorbibnamehash}{0ea7a95fbd65373f009550ce916be4fc}
+      \strng{authornamehash}{0ea7a95fbd65373f009550ce916be4fc}
+      \strng{authorfullhash}{0ea7a95fbd65373f009550ce916be4fc}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS ONE}
+      \field{number}{9}
+      \field{title}{Networks analysis of Brazilian climate data based on the DCCA cross-correlation coefficient}
+      \field{volume}{18}
+      \field{year}{2023}
+      \field{pages}{e0290838}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0290838
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1371/journal.pone.0290838
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1371/journal.pone.0290838
+      \endverb
+    \endentry
+    \entry{olson2001terrestrial}{article}{}
+      \name{author}{18}{}{%
+        {{un=0,uniquepart=base,hash=55906c0cea8bef11f8b1623b6ff2fb05}{%
+           family={Olson},
+           familyi={O\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a75c6c116815912d9c26f5ee761cefd}{%
+           family={Dinerstein},
+           familyi={D\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f130b907130b62d389ba5e985444bdb}{%
+           family={Wikramanayake},
+           familyi={W\bibinitperiod},
+           given={Eric\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=544afb5d125af0486915173444f517c8}{%
+           family={Burgess},
+           familyi={B\bibinitperiod},
+           given={Neil\bibnamedelima D.},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4deffafb24e51ce1d532fdd90b011dae}{%
+           family={Powell},
+           familyi={P\bibinitperiod},
+           given={George\bibnamedelimb V.\bibnamedelimi N.},
+           giveni={G\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cca823a9583771b1d85998335b407ee4}{%
+           family={Underwood},
+           familyi={U\bibinitperiod},
+           given={Emma\bibnamedelima C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=edb527f229175047bb8adbf152bb176e}{%
+           family={D'Amico},
+           familyi={D\bibinitperiod},
+           given={Jennifer\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3f816e0157b292e202b495510ab7b95}{%
+           family={Itoua},
+           familyi={I\bibinitperiod},
+           given={Illanga},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1977d9b2882c3264d84faf4ff7d2fd9}{%
+           family={Strand},
+           familyi={S\bibinitperiod},
+           given={Holly\bibnamedelima E.},
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d21875f2ab6f3a5fc5df31295d3fb9cc}{%
+           family={Morrison},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d012ae5e00b5c84141e80030519341d7}{%
+           family={Loucks},
+           familyi={L\bibinitperiod},
+           given={Colby\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7caceb3fb778815984ef23c553d13c2c}{%
+           family={Allnutt},
+           familyi={A\bibinitperiod},
+           given={Thomas\bibnamedelima F.},
+           giveni={T\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b7dad6030cc28525b852d677f316cac}{%
+           family={Ricketts},
+           familyi={R\bibinitperiod},
+           given={Taylor\bibnamedelima H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8758ffab0c31f40e52b296d834889587}{%
+           family={Kura},
+           familyi={K\bibinitperiod},
+           given={Yvonne},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80b076872fff4a53d684bbdd027d8c3d}{%
+           family={Lamoreux},
+           familyi={L\bibinitperiod},
+           given={John\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31de80d59a37411af05850b48228d293}{%
+           family={Wettengel},
+           familyi={W\bibinitperiod},
+           given={William\bibnamedelima W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73640b3d560111b3c9a78efb07e921cb}{%
+           family={Hedao},
+           familyi={H\bibinitperiod},
+           given={Prashant},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2fc3230778cbe6313e269fad0b8f846d}{%
+           family={Kassem},
+           familyi={K\bibinitperiod},
+           given={Kenneth\bibnamedelima R.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{b2b2aa4a9c3767fac888473101ee42fa}
+      \strng{fullhash}{94dbd72d3ce020a137efc683d4b53109}
+      \strng{bibnamehash}{b2b2aa4a9c3767fac888473101ee42fa}
+      \strng{authorbibnamehash}{b2b2aa4a9c3767fac888473101ee42fa}
+      \strng{authornamehash}{b2b2aa4a9c3767fac888473101ee42fa}
+      \strng{authorfullhash}{94dbd72d3ce020a137efc683d4b53109}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BioScience}
+      \field{number}{11}
+      \field{title}{Terrestrial ecoregions of the world: a new map of life on Earth}
+      \field{volume}{51}
+      \field{year}{2001}
+      \field{pages}{933\bibrangedash 938}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1641/0006-3568(2001)051[0933:TEOTWA]2.0.CO;2
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/bioscience/article/51/11/933/227116
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/bioscience/article/51/11/933/227116
+      \endverb
+    \endentry
+    \entry{penereiro2018seasonal}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c642385ab2931ee9ed5032a1a582f078}{%
+           family={Penereiro},
+           familyi={P\bibinitperiod},
+           given={Júlio\bibnamedelima César},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=264c29c7a45742b592161eacad43ba18}{%
+           family={Badinger},
+           familyi={B\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8c1a20a017d8f34e5f6d06dcd1e803c}{%
+           family={Maccheri},
+           familyi={M\bibinitperiod},
+           given={Nicole\bibnamedelima Augusto},
+           giveni={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2151e89b7ac55ea6e1d02c69ec149369}{%
+           family={Meschiatti},
+           familyi={M\bibinitperiod},
+           given={Monica\bibnamedelima Cristina},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fc7da4cf04d339a4a89c8133004db1ea}
+      \strng{fullhash}{4dc1839c9f709f3ed5cc81d9c8a80d35}
+      \strng{bibnamehash}{fc7da4cf04d339a4a89c8133004db1ea}
+      \strng{authorbibnamehash}{fc7da4cf04d339a4a89c8133004db1ea}
+      \strng{authornamehash}{fc7da4cf04d339a4a89c8133004db1ea}
+      \strng{authorfullhash}{4dc1839c9f709f3ed5cc81d9c8a80d35}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Brasileira de Meteorologia}
+      \field{number}{1}
+      \field{title}{Distributions of Seasonal Average Temperature and Precipitation Trends in Brazilian Biomes}
+      \field{volume}{33}
+      \field{year}{2018}
+      \field{pages}{97\bibrangedash 113}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1590/0102-7786331012
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1590/0102-7786331012
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1590/0102-7786331012
+      \endverb
+    \endentry
+    \entry{sapucci2019quality}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=61f93c4921448dd20dd867bb30bd2ff2}{%
+           family={Sapucci},
+           familyi={S\bibinitperiod},
+           given={Luiz\bibnamedelima Fernando},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8c1dd57318de0aa973516a623c60e00b}
+      \strng{fullhash}{8c1dd57318de0aa973516a623c60e00b}
+      \strng{bibnamehash}{8c1dd57318de0aa973516a623c60e00b}
+      \strng{authorbibnamehash}{8c1dd57318de0aa973516a623c60e00b}
+      \strng{authornamehash}{8c1dd57318de0aa973516a623c60e00b}
+      \strng{authorfullhash}{8c1dd57318de0aa973516a623c60e00b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brazilian Journal of Meteorology}
+      \field{title}{Quality control of meteorological data from INMET}
+      \field{volume}{34}
+      \field{year}{2019}
+      \field{pages}{527\bibrangedash 543}
+      \range{pages}{17}
+    \endentry
+    \entry{silva2022mapping}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8c45a6ae3465b955f6f23cae8b748840}{%
+           family={Silva\bibnamedelima Junior},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Ubiratan\bibnamedelimb Joaquim\bibnamedelima da},
+           giveni={U\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f684f2fee932717c7ce3569a0a2cc11}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={Rayane\bibnamedelimb Cavalcanti\bibnamedelima da},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34f3ac1e8cf4b73a7cfba0af32eaf7dd}{%
+           family={Silva\bibnamedelima Júnior},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Juarez\bibnamedelimb Antonio\bibnamedelima da},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6d990aae34436b5bd86ba5dca3bbf516}
+      \strng{fullhash}{6d990aae34436b5bd86ba5dca3bbf516}
+      \strng{bibnamehash}{6d990aae34436b5bd86ba5dca3bbf516}
+      \strng{authorbibnamehash}{6d990aae34436b5bd86ba5dca3bbf516}
+      \strng{authornamehash}{6d990aae34436b5bd86ba5dca3bbf516}
+      \strng{authorfullhash}{6d990aae34436b5bd86ba5dca3bbf516}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Caminhos de Geografia}
+      \field{number}{90}
+      \field{title}{Mapping of Caatinga Biome Vegetation through NDVI MODIS Time Series and Albedo, in Pajeú River Basin - PE, BR}
+      \field{volume}{23}
+      \field{year}{2022}
+      \field{pages}{75\bibrangedash 89}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.14393/RCG239060898
+      \endverb
+      \verb{urlraw}
+      \verb http://doi.org/10.14393/RCG239060898
+      \endverb
+      \verb{url}
+      \verb http://doi.org/10.14393/RCG239060898
+      \endverb
+    \endentry
+    \entry{whittaker1975communities}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d9cd168b79e9b936c62a045eec25ab5}{%
+           family={Whittaker},
+           familyi={W\bibinitperiod},
+           given={Robert\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Toronto}%
+      }
+      \list{publisher}{1}{%
+        {MacMillan Publishing}%
+      }
+      \strng{namehash}{6d9cd168b79e9b936c62a045eec25ab5}
+      \strng{fullhash}{6d9cd168b79e9b936c62a045eec25ab5}
+      \strng{bibnamehash}{6d9cd168b79e9b936c62a045eec25ab5}
+      \strng{authorbibnamehash}{6d9cd168b79e9b936c62a045eec25ab5}
+      \strng{authornamehash}{6d9cd168b79e9b936c62a045eec25ab5}
+      \strng{authorfullhash}{6d9cd168b79e9b936c62a045eec25ab5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Communities and Ecosystems}
+      \field{year}{1975}
+      \field{pages}{51\bibrangedash 64}
+      \range{pages}{14}
+      \verb{urlraw}
+      \verb https://books.google.com/books?id=T6m0AAAAIAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com/books?id=T6m0AAAAIAAJ
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
